@@ -3,6 +3,8 @@
 ### sancakdar@sh1ft3r.nl ###
 ############################
 
+#!/usr/bin/env python3
+
 from sys import exit
 from pip._vendor.distlib.compat import raw_input
 
